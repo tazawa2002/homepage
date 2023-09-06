@@ -27,6 +27,6 @@ theme = 'ananke'
     url = "/"
     weight = -200
 [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
+    name = "Articles"
+    url = "/post/"
     weight = -180
